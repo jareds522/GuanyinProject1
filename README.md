@@ -3,7 +3,11 @@ Then, output the sum of x and y using printf().
 Example:
 
 Enter an integer:
+
 x
+
 Enter another integer:
+
 y
+
 The sum of x and y is z
